@@ -44,10 +44,23 @@
 
 ## 📬 Let's Connect
 
-- 📧 **Email**: [kumar235376@gmail.com](mailto:kumar235376@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dinesh-g-k)  
-- 💻 [LeetCode](https://leetcode.com/u/DINESH_GK/)  
-- 📸 [Instagram](https://www.instagram.com/d_a_r_k_d_e_v_i_l__3_3/)
+<p align="left">
+  <a href="mailto:kumar235376@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40px" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dinesh-g-k">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/DINESH_GK/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40px" alt="Leetcode"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/d_a_r_k_d_e_v_i_l__3_3/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40px" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
