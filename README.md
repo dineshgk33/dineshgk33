@@ -6,6 +6,10 @@
 ---
 
 <!-- Social Icons Row (centered) -->
+<!-- Social Icons Row -->
+<p align="center">
+  <b>Connect with me</b>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/dinesh-g-k" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
@@ -26,6 +30,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
   </a>
 </p>
+
+
 
 ---
 
@@ -65,15 +71,6 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/><br>Redis</td>
   </tr>
 </table>
-
----
-
-## 📬 Let's Connect
-
-- 📧 **Email**: [kumar235376@gmail.com](mailto:kumar235376@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dinesh-g-k)  
-- 💻 [LeetCode](https://leetcode.com/u/DINESH_GK/)  
-- 📸 [Instagram](https://www.instagram.com/d_a_r_k_d_e_v_i_l__3_3/)
 
 ---
 
