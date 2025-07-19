@@ -7,18 +7,12 @@
 
 <!-- Social Icons Row (centered) -->
 <!-- Social Icons Row -->
-<p align="center">
+<p>
   <b>Connect with me</b>
 </p>
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/dinesh-g-k" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" />
-  </a>
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
   </a>
   <a href="https://www.instagram.com/d_a_r_k_d_e_v_i_l__3_3/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
