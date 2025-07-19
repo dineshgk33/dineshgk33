@@ -15,7 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="https://www.instagram.com/d_a_r_k_d_e_v_i_l__3_3/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="instagram-logo"/>
   </a>
   <a href="https://leetcode.com/u/DINESH_GK/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
