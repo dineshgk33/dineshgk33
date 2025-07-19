@@ -20,9 +20,6 @@
   <a href="https://leetcode.com/u/DINESH_GK/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
   </a>
-  <a href="https://github.com/dineshgk33" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
-  </a>
 </p>
 
 
