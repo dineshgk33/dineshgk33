@@ -1,7 +1,7 @@
 <!-- Intro -->
 # Hi there, I'm GK Dinesh 👋
 
-### 🔧 Full Stack Developer | Spring Boot | React | Python ML | MySQL | VS Code | GitHub
+### 🔧 Full Stack Developer | Java Spring Boot + React
 
 ---
 
